@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { GlobaleStyles } from "../GlobaleStyled";
 import CartContent from "./cartContent/CartContent";
-import Footer from "./Footer/Footer";
+import Footer from "./footer/Footer";
 import Nav from "./nav/Nav";
 
 function Cart() {
